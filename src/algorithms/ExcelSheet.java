@@ -7,9 +7,16 @@ package algorithms;
 public class ExcelSheet {
 
     public static void main(String args[]){
-
+        System.out.println(new ExcelSheet().titleToNumber("AB"));
     }
 
-
+    public int titleToNumber(String s) {
+        int result = 0, count = 0;
+        while(!s.equals("")){
+            result = (int)Math.pow(26, count++) * (s.charAt(s.length() - 1) - 'A' + 1) + result;
+            s = s.substring(0, s.length() - 1);
+        }
+        return result;
+    }
 
 }
