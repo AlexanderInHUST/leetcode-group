@@ -4,10 +4,10 @@ package algorithms;
  * Created by Lily on 2016/12/25.
  * Email: yifengtang@hustunique.com
  */
-public class ReverseString {
+public class ReverseString_344 {
 
     public static void main(String args[]){
-        System.out.println(new ReverseString().reverseString("1234567890"));
+        System.out.println(new ReverseString_344().reverseString("1234567890"));
     }
 
     private String reverseString(String s) {

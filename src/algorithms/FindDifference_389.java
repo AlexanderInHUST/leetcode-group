@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 16/12/27.
  * Email: yifengtang@uniquestudio.com
  */
-public class FindDifference {
+public class FindDifference_389 {
 
     public static void main(String arg[]){
-        System.out.println(new FindDifference().findTheDifference("abcd","abcdr"));
+        System.out.println(new FindDifference_389().findTheDifference("abcd","abcdr"));
     }
 
     public char findTheDifference(String s, String t) {

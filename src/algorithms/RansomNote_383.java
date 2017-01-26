@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class RansomNote {
+public class RansomNote_383 {
 
     public static void main(String args[]){
-        System.out.println(new RansomNote().canConstruct("aa","ab"));
+        System.out.println(new RansomNote_383().canConstruct("aa","ab"));
     }
 
     public boolean canConstruct(String ransomNote, String magazine) {

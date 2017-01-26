@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 16/12/27.
  * Email: yifengtang@uniquestudio.com
  */
-public class MinDepthBinaryTree {
+public class MinDepthBinaryTree_111 {
 
     class TreeNode {
         int val;

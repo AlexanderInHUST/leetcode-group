@@ -1,15 +1,13 @@
 package algorithms;
 
-import java.util.ArrayList;
-
 /**
  * Created by tangyifeng on 16/12/27.
  * Email: yifengtang@uniquestudio.com
  */
-public class SumOfTwoInt {
+public class SumOfTwoInt_371 {
 
     public static void main(String args[]){
-        System.out.println(new SumOfTwoInt().getSub(3,23));
+        System.out.println(new SumOfTwoInt_371().getSub(3,23));
     }
 
     private int getSum(int a, int b) {

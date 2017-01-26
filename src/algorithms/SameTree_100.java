@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class SameTree {
+public class SameTree_100 {
 
     class TreeNode {
         int val;

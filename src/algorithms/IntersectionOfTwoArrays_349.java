@@ -7,10 +7,10 @@ import java.util.Set;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class IntersectionOfTwoArrays {
+public class IntersectionOfTwoArrays_349 {
 
     public static void main(String args[]){
-        int result[] = new IntersectionOfTwoArrays().intersection(new int[]{1, 2, 2, 1, 3}, new int[]{1, 2});
+        int result[] = new IntersectionOfTwoArrays_349().intersection(new int[]{1, 2, 2, 1, 3}, new int[]{1, 2});
         for (Integer i : result){
             System.out.println(i);
         }

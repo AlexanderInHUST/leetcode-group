@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class ExcelSheet {
+public class ExcelSheet_171 {
 
     public static void main(String args[]){
-        System.out.println(new ExcelSheet().titleToNumber("AB"));
+        System.out.println(new ExcelSheet_171().titleToNumber("AB"));
     }
 
     public int titleToNumber(String s) {

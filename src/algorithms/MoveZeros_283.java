@@ -4,11 +4,11 @@ package algorithms;
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class MoveZeros {
+public class MoveZeros_283 {
 
     public static void main(String args[]) {
         int nums[] = new int[]{0, 1};
-        new MoveZeros().moveZeroes(nums);
+        new MoveZeros_283().moveZeroes(nums);
         for(int i : nums)
             System.out.println(i);
     }

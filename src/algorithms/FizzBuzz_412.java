@@ -7,10 +7,10 @@ import java.util.List;
  * Created by Lily on 2016/12/25.
  * Email: yifengtang@hustunique.com
  */
-public class FizzBuzz {
+public class FizzBuzz_412 {
 
     public static void main(String args[]){
-        System.out.println(new FizzBuzz().fizzBuzz(15));
+        System.out.println(new FizzBuzz_412().fizzBuzz(15));
     }
 
     private List<String> fizzBuzz(int n) {

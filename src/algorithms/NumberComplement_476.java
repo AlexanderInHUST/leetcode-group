@@ -1,16 +1,13 @@
 package algorithms;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-
 /**
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class NumberComplement {
+public class NumberComplement_476 {
 
     public static void main(String args[]) {
-        System.out.println(new NumberComplement().findComplement(1));
+        System.out.println(new NumberComplement_476().findComplement(1));
     }
 
     public int findComplement(int num) {

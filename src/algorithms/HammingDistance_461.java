@@ -4,10 +4,10 @@ package algorithms;
  * Created by Lily on 2016/12/25.
  * Email: yifengtang@hustunique.com
  */
-public class HammingDistance {
+public class HammingDistance_461 {
 
     public static void main(String args[]){
-        System.out.println(new HammingDistance().hammingDistance(7, 1));
+        System.out.println(new HammingDistance_461().hammingDistance(7, 1));
     }
 
     private int hammingDistance(int x, int y) {

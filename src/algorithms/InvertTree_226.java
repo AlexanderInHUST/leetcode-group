@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class InvertTree {
+public class InvertTree_226 {
 
     class TreeNode {
         int val;

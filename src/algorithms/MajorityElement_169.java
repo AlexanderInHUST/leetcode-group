@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class MajorityElement {
+public class MajorityElement_169 {
 
     public static void main(String args[]){
-        System.out.println(new MajorityElement().majorityElement(new int[]{}));
+        System.out.println(new MajorityElement_169().majorityElement(new int[]{}));
     }
 
     public int majorityElement(int[] nums) {

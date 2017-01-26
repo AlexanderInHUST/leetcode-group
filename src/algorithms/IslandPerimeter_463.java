@@ -4,10 +4,10 @@ package algorithms;
  * Created by Lily on 2016/12/25.
  * Email: yifengtang@hustunique.com
  */
-public class IslandPerimeter {
+public class IslandPerimeter_463 {
 
     public static void main(String args[]){
-        System.out.println(new IslandPerimeter().islandPerimeter(new int[][]{{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}}));
+        System.out.println(new IslandPerimeter_463().islandPerimeter(new int[][]{{0,1,0,0},{1,1,1,0},{0,1,0,0},{1,1,0,0}}));
     }
 
     private int islandPerimeter(int[][] grid) {

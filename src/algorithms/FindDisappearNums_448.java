@@ -7,10 +7,10 @@ import java.util.List;
  * Created by Lily on 2016/12/25.
  * Email: yifengtang@hustunique.com
  */
-public class FindDisappearNums {
+public class FindDisappearNums_448 {
 
     public static void main(String args[]){
-        System.out.println(new FindDisappearNums().findDisappearedNumbers(new int[]{10,2,5,10,9,1,1,4,3,7}));
+        System.out.println(new FindDisappearNums_448().findDisappearedNumbers(new int[]{10,2,5,10,9,1,1,4,3,7}));
     }
 
     private List<Integer> findDisappearedNumbers(int[] nums) {

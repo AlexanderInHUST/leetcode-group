@@ -1,16 +1,15 @@
 package algorithms;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
  * Created by tangyifeng on 16/12/29.
  * Email: yifengtang@uniquestudio.com
  */
-public class AssignCookies {
+public class AssignCookies_455 {
 
     public static void main(String args[]){
-        System.out.println(new AssignCookies().findContentChildren(new int[]{10, 9, 8, 7}, new int[]{5, 6, 7, 8}));
+        System.out.println(new AssignCookies_455().findContentChildren(new int[]{10, 9, 8, 7}, new int[]{5, 6, 7, 8}));
     }
 
     public int findContentChildren(int[] g, int[] s) {

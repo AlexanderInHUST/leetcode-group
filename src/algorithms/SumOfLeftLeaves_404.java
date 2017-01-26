@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class SumOfLeftLeaves {
+public class SumOfLeftLeaves_404 {
 
     class TreeNode {
         int val;

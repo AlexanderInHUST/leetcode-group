@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 16/12/27.
  * Email: yifengtang@uniquestudio.com
  */
-public class MaxDepthBinaryTree {
+public class MaxDepthBinaryTree_104 {
 
     class TreeNode {
         int val;

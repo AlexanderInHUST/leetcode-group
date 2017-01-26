@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class FirstUniqueChar {
+public class FirstUniqueChar_387 {
 
     public static void main(String args[]){
-        System.out.println(new FirstUniqueChar().firstUniqChar("loveleetcode"));
+        System.out.println(new FirstUniqueChar_387().firstUniqChar("loveleetcode"));
     }
 
     public int firstUniqChar(String s) {

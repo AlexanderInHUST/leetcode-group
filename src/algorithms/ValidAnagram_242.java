@@ -7,10 +7,10 @@ import java.util.Map;
  * Created by tangyifeng on 17/1/12.
  * Email: yifengtang@uniquestudio.com
  */
-public class ValidAnagram {
+public class ValidAnagram_242 {
 
     public static void main(String args[]){
-        System.out.println(new ValidAnagram().isAnagram("a","a"));
+        System.out.println(new ValidAnagram_242().isAnagram("a","a"));
     }
 
     public boolean isAnagram(String s, String t) {

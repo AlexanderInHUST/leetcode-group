@@ -4,7 +4,7 @@ package algorithms;
  * Created by tangyifeng on 17/1/9.
  * Email: yifengtang@uniquestudio.com
  */
-public class DeleteNode {
+public class DeleteNode_237 {
 
     class ListNode{
         int val;

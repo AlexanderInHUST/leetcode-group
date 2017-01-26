@@ -4,10 +4,10 @@ package algorithms;
  * Created by tangyifeng on 16/12/27.
  * Email: yifengtang@uniquestudio.com
  */
-public class AddDigits {
+public class AddDigits_258 {
 
     public static void main(String args[]){
-        System.out.println(new AddDigits().addDigits(123));
+        System.out.println(new AddDigits_258().addDigits(123));
     }
 
     private int addDigits(int num) {
